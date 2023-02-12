@@ -57,3 +57,4 @@ http_archive(
         "https://github.com/abseil/abseil-py/archive/pypi-v0.9.0.tar.gz",
     ],
 )
+foo
