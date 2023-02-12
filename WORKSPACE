@@ -58,3 +58,4 @@ http_archive(
     ],
 )
 foo
+baz
