@@ -61,3 +61,4 @@ foo
 baz
 a
 b
+c
