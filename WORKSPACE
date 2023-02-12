@@ -62,3 +62,4 @@ baz
 a
 b
 c
+a
