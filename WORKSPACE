@@ -60,3 +60,4 @@ http_archive(
 foo
 baz
 a
+b
